@@ -1,0 +1,33 @@
+_repo: Freeland--A-Social-Anticipation_9866
+_version: 0.0.1
+alternative_title: 'Freiland: ein sociales Zukunftsbild. English'
+contributor:
+  translator:
+    agent_name: Ransom, Arthur
+    birthdate: 1831
+    deathdate: 1912
+    gutenberg_agent_id: '40777'
+    url: http://www.gutenberg.org/2009/agents/40777
+creator:
+  author:
+    agent_name: Hertzka, Theodor
+    birthdate: 1845
+    deathdate: 1924
+    gutenberg_agent_id: '3179'
+    url: http://www.gutenberg.org/2009/agents/3179
+    wikipedia: http://en.wikipedia.org/wiki/Theodor_Hertzka
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9866'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HX'
+- !lcsh 'Utopias'
+- GITenberg
+title: 'Freeland: A Social Anticipation'
+url: http://www.gutenberg.org/ebooks/9866
